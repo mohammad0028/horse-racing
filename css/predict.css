@@ -1,0 +1,214 @@
+@charset "utf-8";
+body{
+	background-image:url(../images/1533991.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	height:auto;
+	}
+.div1{
+	width:100%;
+	height:100px;
+	border:0px;
+	margin-top:10px;
+	}
+	
+.mainpage{
+	border:0px;
+	width:120px;
+	height:55px;
+	float:right;
+	margin-right:90px;
+	margin-top:10px;
+	font-family:"Adobe Arabic";
+	font-size:25px;
+	font-weight:bold;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(203,203,203,1.00);
+	}
+.mainpage:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(235,235,235,1.00);
+	}
+	
+.dropdown{
+	float:right;
+		
+	}
+.btn{
+	width:120px;
+	height:55px;
+	margin-right:40px;
+	margin-top:10px;
+	border:0px;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(231,231,231,1.00);
+	font-family:"Adobe Arabic";
+	font-size:20px;
+	font-weight:bold;
+	}
+.btn:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(114,114,114,1.00);
+	}
+
+.dropdown-menu{
+	margin-right:20px;
+	background-color:rgba(0,0,0,0.63);
+	border-radius:10px;
+	}
+
+
+.dropdown-menu .drop{
+	color:rgba(208,208,208,1.00);
+	font-family:"Adobe Arabic";
+	font-size:18px;
+	}
+	
+.dropdown-menu .aszx:hover{
+	background-color:rgba(0,0,0,0.85);
+	}
+
+/*.dropdown-menu .drop:hover{
+	color:rgba(97,97,97,1.00);
+	}*/
+	
+.exit{
+	float:left;
+	width:110px;
+	height:50px;
+	margin-top:20px;
+	margin-left:140px;
+	border-radius:10px;
+	border:0px;
+	background-color:rgba(167,6,9,0.75);
+	font-family:"Adobe Arabic";
+	font-size:26px;
+	font-weight:bold;
+	
+	}	
+.afds{
+	color:rgba(233,233,233,1.00);
+	}
+	
+.glyphicon{
+	font-size:18px;
+	font-weight:bold;
+	color:rgba(227,227,227,1.00);
+	}
+.exit:hover{
+	background-color:rgba(167,6,9,1);
+	
+	}	
+	
+.table1{
+	
+	min-height:500px;
+	float:right;
+	direction:rtl;
+	margin-top:50px;
+	width:400px;
+	margin-right:70px;
+	border-radius:10px;
+	
+	}
+
+.table1>tbody>tr{
+	background-color:rgba(0,0,0,0.64);
+	}
+
+.table1>tbody>tr:last-child {
+	background-color:rgba(0,0,0,0.00);
+	}
+
+tr th{
+	height:50px;
+	color:rgba(224,243,83,1.00);
+	font-family:"B Nazanin";
+	font-size:22px;
+	text-align:center;
+	background-color:rgba(18,16,65,0.82);
+	font-weight:bold;
+	}
+	
+tr td:first-child{
+	width:50%;
+	}
+	
+tr td{
+	border-left:2px solid rgba(177,177,177,1.00);
+	border-bottom:2px solid rgba(177,177,177,1.00);
+	font-family:"adobe arabic";
+	color:rgba(210,210,210,1.00);
+	font-size:23px;
+	height:40px;
+	margin-right:20px;
+	text-align:center;
+	}
+	
+tr td:nth-last-child{
+	background-color:rgba(212,62,65,1.00);
+	}
+	
+.head1{
+	color:rgba(100,20,21,1.00);
+	background-color:rgba(219,111,113,1.00);
+	font-size:22px;
+	font-weight:bold;
+	
+	}	
+
+.head2{
+	background-color:rgba(219,111,113,1.00);
+	color:rgba(100,20,21,1.00);
+	width:25%;
+	}
+.head3{
+	background-color:rgba(219,111,113,1.00);
+	color:rgba(100,20,21,1.00);
+	width:25%;
+	}	
+.span1{
+	float:right;
+	margin-right:12px;
+	}
+	
+input[type='radio']{
+	width:17px;
+	height:17px;
+	float:right;
+	margin-right:22px;	
+	}
+	
+input:checked{
+	height:22px;
+	width:22px;
+	float:right;
+	margin-right:22px;	
+	}
+.fa{
+	margin-top:9px;
+	color:rgba(59,148,243,1.00);
+	}
+
+.sabt{
+	border:0px;
+	color:rgba(127,15,17,1.00);
+	margin-top:11px;
+	width:120px;
+	height:49px;
+	border-radius:10px;
+	background-color:rgba(219,111,113,1.00);
+	font-weight:bolder;
+	
+	}
+	
+.sabt:hover{
+	background-color:rgba(221,44,47,1.00);
+	color:rgba(214,214,214,1.00);
+	}
+	
+	
+	

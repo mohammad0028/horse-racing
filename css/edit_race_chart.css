@@ -1,0 +1,341 @@
+@charset "utf-8";
+body{
+	background-color:#FFFFCC;
+	
+	}
+	
+.navbar{
+	border-radius:0px 0px 0px 0px;
+	border:0px;
+	}
+
+.container-fluid{
+	padding-right:90px;
+	background:rgba(0,0,0,1.00);
+	height:50px;
+	}
+.nav-content{
+	font-size:21px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	color:rgba(211,211,211,1.00);
+	}
+ul li:hover{
+	background-color:rgba(0,0,0,1.00);
+	}
+
+.dropdown-menu{
+	background-color:rgba(0,0,0,1.00);
+	}			
+.dropdown-menu .dropdown-a{
+	color:rgba(211,211,211,1.00);
+	font-family:"Adobe Arabic";
+	font-size:16px;
+	}
+.dropdown-menu .dropdown-a:hover{
+	background-color:rgba(214,214,214,1.00);
+	}	
+.caret{
+	color:rgba(211,211,211,1.00);
+	}
+.exit{
+	float:left;
+	width:80px;
+	height:33px;
+	margin-left:150px;
+	margin-top:9px;
+	border-radius:5px;
+	border:0px;
+	font-family:"adobe arabic";
+	font-size:20px;
+	font-weight:bold;
+	padding-top:3px;
+	background-color:rgba(188,37,40,1.00);
+	color:rgba(216,216,216,1.00);
+	}	
+.glyphicon{
+	font-size:15px;
+	}
+.exit:hover{
+	width:90px;
+	height:51px;
+	margin-top:0px;
+	color:rgba(245,245,245,1.00);
+	margin-left:146px;
+	font-size:22px;
+	}		
+	
+.div1{
+	border:0px;
+	direction:rtl;
+	width:90%;	
+	height:330px;
+	margin:auto;
+	padding-top:15px;
+	background-color:rgba(223,136,50,1.00);
+	border-radius:10px;
+	
+	}
+
+#enter{
+	margin:auto;
+	font-family:"adobe arabic";
+	font-weight:bold;
+	font-size:23px;
+	margin-right:530px;
+	}
+
+hr{
+	
+	border:0px;
+	border-radius:1px;
+	height:3px;
+	background-color:rgba(229,229,229,1.00);
+	}
+
+	
+.spans{
+	font-family:"adobe arabic";
+	font-size:20px;
+	
+	}
+	
+#label1{
+	display:inline;
+	
+	}
+	
+.select1{
+	background-color:rgba(243,243,243,1.00);
+	padding-right:9px;
+	border-radius:10px;
+	width:70px;
+	height:30px;
+	}
+
+#label2{
+	display:inline;
+	}
+	
+.select2{
+	font-family:"adobe arabic";
+	font-size:17px;
+	background-color:rgba(243,243,243,1.00);
+	padding-right:15px;
+	border-radius:10px;
+	width:75px;
+	height:30px;
+	}
+	
+#label3{
+	display:inline;
+	}
+	
+.select3{
+	font-family:"adobe arabic";
+	font-size:17px;
+	background-color:rgba(243,243,243,1.00);
+	padding-right:15px;
+	border-radius:10px;
+	width:70px;
+	height:30px;
+	}
+	
+#label4{
+	display:inline;
+	}
+	
+.select4{
+	font-family:"adobe arabic";
+	font-size:17px;
+	background-color:rgba(243,243,243,1.00);
+	padding-right:15px;
+	border-radius:10px;
+	width:80px;
+	height:30px;
+	}
+	
+#label5{
+	display:inline;
+	}
+	
+.select5{
+	font-family:"adobe arabic";
+	font-size:17px;
+	background-color:rgba(243,243,243,1.00);
+	padding-right:15px;
+	border-radius:10px;
+	width:70px;
+	height:30px;
+	margin-top:50px;
+	}
+.input1{
+	background-color:rgba(243,243,243,1.00);
+	padding-left:15px;
+	width:115px;
+	height:30px;
+	border-radius:5px;
+	}
+.input2{
+	border-radius:5px;
+	background-color:rgba(243,243,243,1.00);
+	width:80px;
+	height:30px;
+	padding-left:8px;
+	}	
+	
+.input3{
+	border-radius:5px;
+	background-color:rgba(243,243,243,1.00);
+	width:120px;
+	height:30px;
+	margin-top:50px;
+	padding-left:8px;
+	}	
+.table1{
+	direction:rtl;
+	width:75%;
+	height:auto;
+	margin:auto;
+	margin-top:50px;
+	background-color:rgba(0,0,0,0.50);
+	}	
+th{
+	color:rgba(213,244,133,0.88);
+  	background:#1b1e24;
+  	border-bottom:4px solid #9ea7af;
+  	border-right: 1px solid #343a45;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:24px;
+  	text-align:center;
+	font-family:"Adobe Arabic";
+	height:40px;
+	padding-right:10px;
+	
+	}		
+
+tr:nth-child(odd) td {
+  background:rgba(0,0,0,0.08);
+}
+
+td {
+  background:rgba(228,228,228,0.15);
+  padding:10px;
+  text-align:center;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:22px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.3);
+  border-right: 1px solid #C1C3D1;
+  color:rgba(224,224,224,0.84);
+  font-family:"Adobe Arabic";
+  }	
+  
+  .horse1{
+	padding:0px;
+	float:right;
+	margin-right:25px;
+	width:30px;
+	height:30px;
+	border:0px;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.01); 
+	
+	}
+
+.horse2{
+	margin-right:8px;
+	padding:0px;
+	float:right;
+	width:25px;
+	height:25px;
+	border:0px;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.01); 
+	
+	}
+  
+.horse{
+	width:70px;
+	height:46px;
+	float:right;
+	margin-right:280px;
+	margin-top:80px;
+	background-color:rgba(10,115,52,1.00);
+	border:0px;
+	border-radius:7px;
+	margin-bottom:80px;
+
+	}
+	
+.horse:hover{
+	background-color:rgba(35,183,98,1.00);
+	}		
+	
+#glyph1{
+	font-size:23px;
+	color:rgba(228,152,57,1.00);
+	}
+
+#glyph{
+	font-size:20px;
+	color:rgba(255,255,255,1.00);
+	}
+		
+.change{
+	width:95px;
+	height:43px;
+	float:right;
+	margin-top:80px;
+	margin-right:140px;
+	border-radius:5px;
+	border:0px;
+	background-color:rgba(14,112,53,1.00)
+	
+	}	
+	
+.change:hover{
+	background-color:rgba(35,183,98,1.00);
+	}	
+	
+.emal{
+	font-family:"adobe arabic";
+	font-size:19px;
+	font-weight:bold;
+	color:rgba(244,244,244,1.00);
+	
+	}
+.message{
+	font-size:21px;
+	margin:10px;
+	color:rgba(154,154,154,1.00);
+	font-family:"adobe arabic";
+	}
+	
+.horseName{
+	color:black;
+	width:145px;
+	height:33px;
+	background-color:rgba(239,239,239,1.00);
+	border-radius:5px;
+	text-align:center;
+	padding-right:6px;
+	}
+.rank{
+	width:100px;
+	height:28px;
+	border:0px;
+	border-radius:5px;
+	color:rgba(17,36,249,1.00);
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	

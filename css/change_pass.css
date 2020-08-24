@@ -1,0 +1,95 @@
+@charset "utf-8";
+body{
+	background-image:url(../images/back.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	}
+
+.div1{
+	width:40%;
+	height:400px;
+	background-color:rgba(0,0,0,0.37);
+	border-radius:15px;
+	border:0px;
+	margin:auto;
+	margin-top:80px;
+	}
+.div1-1{
+	padding-top:10px;
+	margin:auto;
+    direction:rtl;
+	border:0px;
+	text-align:center;
+	width:70%;
+	height:50px;
+	}
+	
+.editpass{
+	margin-top:40px;
+	font-family:"adobe arabic";
+	font-weight:bold;
+	font-size:29px;
+	color:rgba(128,237,215,1.00);
+	
+	}
+	
+.spans1{
+	direction:rtl;
+	font-size:20px;
+	font-family:"Adobe Arabic";
+	float:right;
+	clear:both;
+	font-weight:bold;
+	color:rgba(228,228,228,1.00);
+	margin-right:60px;
+	margin-top:50px;
+	}	
+	
+.inputs1{
+	padding-left:12px;
+	font-weight:bold;
+	font-size:24px;
+	font-family:"Adobe Arabic";
+	color:rgba(232,232,232,1.00);
+	background-color:rgba(0,0,0,0.40);
+	text-align:left;
+	border:0px;
+	border-radius:10px;
+	height:35px;
+	width:15%px;
+	float:left;
+	margin-top:50px;
+	margin-left:130px;
+	
+	}
+	
+.div2{
+	direction:rtl;
+	border:0px;
+	width:500px;
+	height:100px;
+	margin:auto;
+	margin-top:30px;
+	}	
+.button{
+	height:52px;
+	width:110px;
+	background-color:rgba(0,0,0,0.41);
+	color:rgba(128,238,220,1.00);
+	margin-right:39px;
+	margin-top:30px;
+	font-family:"adobe arabic";
+	font-size:24px;
+	border-radius:10px;
+	border:0px;
+	}
+.button:hover{
+	background-color:rgba(0,0,0,0.58);
+	}	
+	
+span{
+	font-family:"adobe arabic";
+	}
+	
+	

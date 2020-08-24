@@ -1,0 +1,327 @@
+@charset "utf-8";
+body{
+	background-image:url(../images/wallpapers-other-simple-blue-animated-miscellaneous-design-images-wallpaper.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	}
+	
+.div1{
+	width:100%;
+	height:100px;
+	border:0px;
+	margin-top:10px;
+	}
+	
+.mainpage{
+	border:0px;
+	width:120px;
+	height:55px;
+	float:right;
+	margin-right:90px;
+	margin-top:10px;
+	font-family:"Adobe Arabic";
+	font-size:25px;
+	font-weight:bold;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.50);
+	color:rgba(203,203,203,1.00);
+	}
+.mainpage:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(221,221,221,1.00);
+	}
+	
+.dropdown{
+	float:right;
+		
+	}
+.btn{
+	width:120px;
+	height:55px;
+	margin-right:40px;
+	margin-top:10px;
+	border:0px;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.50);
+	color:rgba(231,231,231,1.00);
+	font-family:"Adobe Arabic";
+	font-size:20px;
+	font-weight:bold;
+	}
+.btn:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(221,221,221,1.00);
+	}
+
+.dropdown-menu{
+	margin-right:20px;
+	background-color:rgba(0,0,0,0.73);
+	border-radius:10px;
+	}
+
+
+.dropdown-menu .drop{
+	color:rgba(208,208,208,1.00);
+	font-family:"Adobe Arabic";
+	font-size:18px;
+	
+	}
+.dropdown-menu .aszx:hover{
+	background-color:rgba(0,0,0,0.85);
+	}
+
+.exit{
+	float:left;
+	width:110px;
+	height:50px;
+	margin-top:20px;
+	margin-left:140px;
+	border-radius:10px;
+	border:0px;
+	background-color:rgba(167,6,9,0.75);
+	font-family:"Adobe Arabic";
+	font-size:26px;
+	font-weight:bold;
+	
+	}	
+.afds{
+	color:rgba(233,233,233,1.00);
+	}
+	
+.glyphicon{
+	font-size:22px;
+	font-weight:bold;
+	color:rgba(245,244,60,1.00);
+	}
+.exit:hover{
+	background-color:rgba(167,6,9,1);
+	
+	}	
+
+.chart{
+	margin-right:520px;
+	margin-top:45px;
+	float:right;
+	width:190px;
+	height:76px;
+	border-radius:20px;
+	border:0px;
+	font-family:"adobe arabic";
+	font-weight:bold;
+	font-size:20px;
+	background-color:rgba(0,0,0,0.30);
+	color:rgba(203,203,203,1.00);
+	}
+.chart:hover{
+	background-color:rgba(0,0,0,0.55);
+	color:rgba(188,237,232,0.73);
+	}
+
+.result{
+	margin-right:10px;
+	margin-top:45px;
+	float:right;
+	width:190px;
+	height:76px;
+	border-radius:20px;
+	border:0px;
+	font-family:"adobe arabic";
+	font-weight:bold;
+	font-size:20px;
+	background-color:rgba(0,0,0,0.79);
+	color:rgba(38,239,217,1.00);
+	
+	}
+#year{
+	width:110px;
+	margin-right:8px;
+	height:25px;
+	font-size:21px;
+	border-radius:5px;
+	margin-top:6px;
+	background-color:rgba(231,231,231,1.00);
+	color:rgba(55,21,224,1.00);
+	}
+
+#season{
+	width:110px;
+	margin-right:8px;
+	height:25px;
+	font-size:21px;
+	border-radius:5px;
+	margin-top:6px;
+	background-color:rgba(231,231,231,1.00);
+	color:rgba(55,21,224,1.00);
+	}
+#week{
+	width:110px;
+	margin-right:5px;
+	height:25px;
+	font-size:21px;
+	border-radius:5px;
+	margin-top:6px;
+	background-color:rgba(231,231,231,1.00);
+	color:rgba(55,21,224,1.00);
+	}
+#course_num{
+	width:110px;
+	margin-right:8px;
+	height:25px;
+	font-size:21px;
+	border-radius:5px;
+	margin-top:6px;
+	background-color:rgba(231,231,231,1.00);
+	color:rgba(55,21,224,1.00);
+	}
+
+.year{
+	float:right;
+	width:12%;
+	height:40px;
+	margin-right:310px;
+	margin-top:20px;
+	margin-bottom:6px;
+	border:0px;
+	direction:rtl;
+	border-radius:5px;
+	background-color:rgba(13,38,95,0.51);
+	clear:both;
+	}
+.year span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(27,84,217,1.00);
+	}
+
+.season{
+	float:right;
+	width:13%;
+	height:40px;
+	margin-right:10px;
+	margin-top:20px;
+	margin-bottom:6px;
+	border:0px;
+	direction:rtl;
+	border-radius:5px;
+	background-color:rgba(13,38,95,0.51);
+	}
+.season span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(214,225,127,1.00);
+	}
+		
+.week{
+	float:right;
+	width:11%;
+	height:40px;
+	margin-right:10px;
+	margin-top:20px;
+	margin-bottom:6px;
+	border:0px;
+	direction:rtl;
+	border-radius:5px;
+	background-color:rgba(13,38,95,0.51);
+	}
+.week span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(214,225,127,1.00);
+	}
+.course{
+	float:right;
+	width:15%;
+	height:40px;
+	margin-right:10px;
+	margin-top:20px;
+	margin-bottom:6px;
+	border:0px;
+	direction:rtl;
+	border-radius:5px;
+	background-color:rgba(13,38,95,0.51);
+	}
+.course span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(214,225,127,1.00);
+	}
+
+.div3{
+	float:right;
+	margin-top:0px;
+	margin-right:230px;
+	width:65%;
+	height:40px;
+	border:0px;
+	direction:rtl;
+	background-color:rgba(0,0,0,0.3);
+	border-radius:10px 10px 0px 0px;
+	}
+.div3 span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(95,17,18,0.89);
+	margin-right:20px;
+	}
+	
+.div4{
+	direction:rtl;
+	float:right;
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-right:230px;
+	width:65%;
+	height:40px;
+	border:0px;
+	background-color:rgba(0,0,0,0.3);
+	border-radius:0px 0px 10px 10px;
+	}	
+.div4 span{
+	font-family:"adobe arabic";
+	font-size:24px;
+	color:rgba(95,17,18,0.89);
+	margin-right:20px;
+	}
+	
+.table1{
+	direction:rtl;
+	width:70%;
+	height:auto;
+	background-color:rgba(0,0,0,0.50);
+	margin:auto;
+	position:relative;
+	top:20px;
+	}	
+	
+th{
+	color:rgba(213,244,133,0.88);
+  	background:#1b1e24;
+  	border-bottom:4px solid #9ea7af;
+  	border-right: 1px solid #343a45;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:24px;
+  	text-align:center;
+	font-family:"Adobe Arabic";
+	height:40px;
+	padding-right:10px;
+	
+	}	
+	
+tr:nth-child(odd) td {
+  background:rgba(0,0,0,0.08);
+}
+
+td {
+  background:rgba(228,228,228,0.1);
+  padding:10px;
+  text-align:center;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:22px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.3);
+  border-right: 1px solid #C1C3D1;
+  color:rgba(224,224,224,0.84);
+  font-family:"Adobe Arabic";
+  }	

@@ -1,0 +1,220 @@
+@charset "utf-8";
+
+body{
+	background-color:rgba(74,130,138,1.00);
+	height:auto;
+	}
+	
+.div1{
+	width:100%;
+	height:100px;
+	border:0px;
+	margin-top:10px;
+	}
+	
+.mainpage{
+	border:0px;
+	width:120px;
+	height:55px;
+	float:right;
+	margin-right:90px;
+	margin-top:10px;
+	font-family:"Adobe Arabic";
+	font-size:25px;
+	font-weight:bold;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.50);
+	color:rgba(203,203,203,1.00);
+	}
+.mainpage:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(221,221,221,1.00);
+	}
+	
+.dropdown{
+	float:right;
+		
+	}
+.btn{
+	width:120px;
+	height:55px;
+	margin-right:40px;
+	margin-top:10px;
+	border:0px;
+	border-radius:20px 10px 20px 10px;
+	background-color:rgba(0,0,0,0.50);
+	color:rgba(231,231,231,1.00);
+	font-family:"Adobe Arabic";
+	font-size:20px;
+	font-weight:bold;
+	}
+.btn:hover{
+	background-color:rgba(0,0,0,0.80);
+	color:rgba(221,221,221,1.00);
+	}
+
+.dropdown-menu{
+	margin-right:20px;
+	background-color:rgba(0,0,0,0.73);
+	border-radius:10px;
+	}
+
+
+.dropdown-menu .drop{
+	color:rgba(208,208,208,1.00);
+	font-family:"Adobe Arabic";
+	font-size:18px;
+	
+	}
+.dropdown-menu .aszx:hover{
+	background-color:rgba(0,0,0,0.85);
+	}
+
+.exit{
+	float:left;
+	width:110px;
+	height:50px;
+	margin-top:20px;
+	margin-left:140px;
+	border-radius:10px;
+	border:0px;
+	background-color:rgba(167,6,9,0.75);
+	font-family:"Adobe Arabic";
+	font-size:23px;
+	font-weight:bold;
+	
+	}	
+.afds{
+	color:rgba(233,233,233,1.00);
+	}
+	
+.glyphicon{
+	font-size:18px;
+	font-weight:bold;
+	color:rgba(223,223,223,1.00);
+	}
+.exit:hover{
+	background-color:rgba(167,6,9,1);
+	
+	}	
+
+.div2{
+	width:290px;
+	height:610px;
+	background-color:rgba(0,0,0,0);
+	float:right;
+	border-radius:10px;
+	margin-right:40px;
+	margin-top:10px;
+	margin-bottom:70px;
+	direction:rtl;
+	padding-top:14px;
+	padding-right:20px;
+	
+	}
+.span1{
+	font-family:"adobe arabic";
+	font-size:23px;
+	color:rgba(240,223,70,1.00);
+	font-weight:bold;
+	
+	}
+
+.input1{
+	width:140px;
+	padding-right:5px;
+	background-color:rgba(0,0,0,0.00);
+	border:0px;
+	color:rgba(223,223,223,1.00);
+	font-size:18px;
+	
+	}
+input[value]{
+	font-family:"adobe arabic";
+	font-size:25px;
+	}
+
+p{
+	margin-top:15px;
+}
+
+.toman{
+	color:rgba(223,223,223,1.00);
+	font-size:18px;
+	font-weight:bold;
+	font-family:"adobe arabic";
+	}
+	
+.table1{
+	direction:rtl;
+	width:65%;
+	height:auto;
+	margin:auto;
+	margin-top:90px;
+	background-color:rgba(0,0,0,0.50);
+	}	
+th{
+	color:rgba(213,244,133,0.88);
+  	background:#1b1e24;
+  	border-bottom:4px solid #9ea7af;
+  	border-right: 1px solid #343a45;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:24px;
+  	text-align:center;
+	font-family:"Adobe Arabic";
+	height:40px;
+	padding-right:10px;
+	
+	}		
+
+tr:nth-child(odd) td {
+  background:rgba(0,0,0,0.08);
+}
+
+td {
+ 
+  padding:10px;
+  text-align:center;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:22px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.3);
+  border-right: 1px solid #C1C3D1;
+  color:rgba(224,224,224,0.84);
+  font-family:"Adobe Arabic";
+  }	
+
+input{
+	width:100px;
+	background-color:rgba(0,0,0,0.00);
+	border:0px;
+	}
+.rank{
+	color:rgba(45,240,201,1.00);
+	font-size:30px;
+	}	
+	
+.chart{
+	text-decoration:none;
+	
+	}
+.mybtn{
+	border-radius:5px;
+	margin-right:500px;
+	float:right;
+	margin-top:50px;
+	margin-bottom:70px;
+	width:93px;
+	height:43px;
+	background-color:rgba(134,16,18,1.00);
+	color:rgba(255,255,255,1.00);
+	
+	}
+.mybtn:hover{
+	background-color:rgba(239,17,21,1.00);
+	
+	}
+	
+	
+	

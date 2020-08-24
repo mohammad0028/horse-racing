@@ -1,0 +1,203 @@
+@charset "utf-8";
+body{
+	background-color:#FFFFCC;
+	}
+.navbar{
+	border-radius:0px 0px 0px 0px;
+	border:0px;
+	}
+
+.container-fluid{
+	padding-right:90px;
+	background:rgba(0,0,0,1.00);
+	height:50px;
+	}
+.nav-content{
+	font-size:21px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	color:rgba(211,211,211,1.00);
+	}
+ul li:hover{
+	background-color:rgba(0,0,0,1.00);
+	}
+
+.dropdown-menu{
+	background-color:rgba(0,0,0,1.00);
+	}			
+.dropdown-menu .dropdown-a{
+	color:rgba(211,211,211,1.00);
+	font-family:"Adobe Arabic";
+	font-size:16px;
+	}
+.dropdown-menu .dropdown-a:hover{
+	background-color:rgba(214,214,214,1.00);
+	}	
+.caret{
+	color:rgba(211,211,211,1.00);
+	}
+.exit{
+	float:left;
+	width:80px;
+	height:33px;
+	margin-left:150px;
+	margin-top:9px;
+	border-radius:5px;
+	border:0px;
+	font-family:"adobe arabic";
+	font-size:20px;
+	font-weight:bold;
+	padding-top:3px;
+	background-color:rgba(188,37,40,1.00);
+	color:rgba(216,216,216,1.00);
+	}	
+.glyphicon{
+	font-size:15px;
+	}
+.exit:hover{
+	width:90px;
+	height:51px;
+	margin-top:0px;
+	color:rgba(245,245,245,1.00);
+	margin-left:146px;
+	font-size:22px;
+	}		
+	
+.div1{
+	width:70%;
+	height:58px;
+	background-color:rgba(223,136,50,1.00);
+	text-align:center;
+	direction:rtl;
+	margin:auto;
+	border-radius:8px;
+	padding-top:12px;
+
+	}
+	
+#enter{
+	font-family:"adobe arabic";
+	font-size:23px;
+	font-weight:bold;
+	
+	}
+	
+.table1{
+	direction:rtl;
+	width:65%;
+	height:auto;
+	float:right;
+	margin-right:240px;
+	margin-top:30px;
+	background-color:rgba(0,0,0,0.50);
+	margin-bottom:50px;
+	}	
+	
+th{
+	color:rgba(213,244,133,0.88);
+  	background:#1b1e24;
+  	border-bottom:4px solid #9ea7af;
+  	border-right: 1px solid #343a45;
+  	font-size:20px;
+  	font-weight:bold;
+  	padding:16px;
+  	text-align:center;
+	font-family:"Adobe Arabic";
+	height:40px;
+	padding-right:10px;
+	
+	}	
+	
+tr:nth-child(odd) td {
+  background:rgba(0,0,0,0.08);
+}
+
+td {
+  background:rgba(228,228,228,0.1);
+  padding:10px;
+  text-align:center;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:22px;
+  text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.3);
+  border-right: 1px solid #C1C3D1;
+  color:rgba(224,224,224,0.84);
+  font-family:"Adobe Arabic";
+  }		
+.horse{
+	width:70px;
+	height:46px;
+	float:right;
+	margin-right:280px;
+	margin-top:20px;
+	background-color:rgba(10,115,52,1.00);
+	border:0px;
+	border-radius:7px;
+	margin-bottom:80px;
+
+	}  
+
+.horse:hover{
+	background-color:rgba(35,183,98,1.00);
+	}		  
+  
+ #glyph{
+	font-size:20px;
+	color:rgba(255,255,255,1.00);
+	}
+  
+ .change{
+	width:95px;
+	height:43px;
+	float:right;
+	margin-top:90px;
+	margin-right:290px;
+	border-radius:5px;
+	border:0px;
+	background-color:rgba(14,112,53,1.00)
+	
+	}	
+	
+.change:hover{
+	background-color:rgba(35,183,98,1.00);
+	}	
+	
+.emal{
+	font-family:"adobe arabic";
+	font-size:19px;
+	font-weight:bold;
+	color:rgba(244,244,244,1.00);
+	
+	}
+	
+.horse1{
+	padding:0px;
+	float:right;
+	margin-right:21px;
+	width:20px;
+	height:26px;
+	border:0px;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.01); 
+	}
+
+.horse2{
+	margin-right:20px;
+	padding:0px;
+	float:right;
+	width:25px;
+	height:25px;
+	border:0px;
+	border-radius:4px;
+	background-color:rgba(0,0,0,0.01); 
+	}	
+ 
+  	
+.horse:hover{
+	background-color:rgba(35,183,98,1.00);
+	}		
+ 
+ #glyph1{
+	font-size:21px;
+	color:rgba(228,152,57,1.00);
+	} 

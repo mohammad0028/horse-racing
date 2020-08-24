@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+body{
+	direction:rtl;
+	background-image:url(../images/photo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	height:900px;
+	}
+	
+.div{
+	padding-bottom:60px;
+	padding-top:30px;
+	margin:0 auto;
+	margin-top:32px;
+	margin-bottom:100px;
+	width:55%;
+	height:auto;
+	border:0 0 0 0;
+	border-radius:20px;
+	opacity:0.8;
+	direction:rtl;
+	padding-top:55px;
+	background:rgba(0,0,0,0.3);
+	}
+	
+.input1{
+	width:150px;
+	height:50px;
+	margin-right:0px;
+	background-color:rgba(46,93,203,1.00);
+	border:0;
+	border-radius:5px;
+	color:#ffffff;
+	}
+.input2{
+	width:150px;
+	height:50px;
+	margin-left:0px;
+	border:0;
+	background-color:rgba(116,110,185,1.00);
+	border-radius:5px;
+	opacity:0.8;
+	color:#FFFFFF;
+	}
+.input2:hover{
+	background-color:rgba(83,169,217,1.00);
+	color:#ffffff;
+	opacity:1;
+	}
+	
+input[type="button"]{
+    font-size:25px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	}
+input[placeholder]{
+	font-family: "B Nazanin", "B Nasim";
+	font-size:16px;
+	}
+	
+#sabtenam{
+	font-size:30px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	text-align:center;
+	color:rgba(215,215,215,1.00);
+	}
+span{
+	margin-right:170px;
+	color:rgba(233,233,233,1.00);
+	font-family:"B Nazanin", "B Nasim";
+	font-size:17px;
+	font-weight:bold;
+	}
+	
+.inputs{
+	width:60%;
+	height:30px;
+	border:0;
+	border-radius:4px;
+	padding-right:8px;
+	}
+	
+.inputs1{
+	width:73px;
+	height:35px;
+	border:0;
+	border-radius:4px;
+	margin-left:30px;
+	}
+
+
+.submit{
+	width:75%;
+	height:45px;
+	border:0;
+	border-radius:10px;
+	margin-top:15px;
+	font-family:"Adobe Arabic";
+	font-size:24px;
+	font-weight:bold;
+	background-color:rgba(32,30,70,1.00);
+	color:rgba(223,223,223,1.00);
+	}
+	
+.submit:hover{
+	background-color:rgba(27,89,213,1.00);
+	}
+
+.errors{
+	color:rgba(249,23,27,1.00);
+	font-size:18px;
+	font-family:"adobe arabic";
+	}
+
+
+
+.modal-backdrop{	
+	z-index: -1 !important;
+}
+	
+
+
+
+

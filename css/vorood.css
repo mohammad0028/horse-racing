@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+body{
+	background-image:url(../images/photo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	font-family: "B Nazanin", "B Nasim";
+	height:800px;
+	}
+.div{
+	margin:0 auto;
+	margin-top:30px;
+	width:55%;
+	height:750px;
+	border:0 0 0 0;
+	border-radius:20px;
+	opacity:0.8;
+	direction:rtl;
+	padding-top:55px;
+	background:rgba(0,0,0,0.3);
+	}
+
+.input1{
+	width:149px;
+	height:50px;
+	margin-right:0px;
+	background-color:rgba(116,110,185,1.00);
+	border:0;
+	border-radius:5px;
+	color:#ffffff;
+	opacity:0.8;
+		}
+.input2{
+	width:149px;
+	height:50px;
+	margin-left:0px;
+	border:0;
+	background-color:rgba(46,93,203,1.00);
+	border-radius:5px;
+	color:#FFFFFF;
+	}
+.input1:hover{
+	background-color:rgba(83,169,217,1.00);
+	color:#ffffff;
+	opacity:1;
+	}
+	
+input[type="button"]{
+    font-size:25px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	}
+input[placeholder]{
+	font-family: "B Nazanin", "B Nasim";
+	font-size:16px;
+	}
+	
+#vared{
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+	font-family:"Adobe Arabic";
+	color:rgba(215,215,215,1.00);
+	}
+
+span{
+	margin-right:166px;
+	color:rgba(233,233,233,1.00);
+	font-family:"B Nazanin", "B Nasim";
+	font-size:16px;
+	font-weight:bold;
+	}
+	
+.inputs{
+	width:60%;
+	height:30px;
+	border:0;
+	border-radius:4px;
+	padding-right:8px;
+	}
+
+	
+#submit{
+	width:95%;
+	height:55px;
+	border:0;
+	border-radius:10px;
+	}
+	
+.submit{
+	width:75%;
+	height:45px;
+	border:0;
+	border-radius:10px;
+	margin-top:15px;	
+	font-family:"Adobe Arabic";
+	font-size:25px;
+	font-weight:bold;
+	background-color:rgba(32,30,70,1.00);
+	color:rgba(223,223,223,1.00);
+	}
+.submit:hover{
+	background-color:rgba(27,89,213,1.00);
+	}
+
+.modal-backdrop{	
+	z-index: -1 !important;
+}
+	
+
+
+
+
+
+	

@@ -1,0 +1,367 @@
+@charset "utf-8";
+body{
+	background-image:url(../images/38.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	height:auto;
+	}
+.page-header{
+	border:0;
+	width:100%;
+	height:120px;
+	background-image:url(../images/17.jpg);
+	background-size:100% 120px;
+	background-repeat:no-repeat;
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+#para{
+	float:right;
+	padding-right:180px;
+	padding-top:13px;
+	font-family:IranNastaliq;
+	font-size:40px;
+	color:#581314;
+	opacity:0.8;
+	margin-top:18px;
+	}
+#logo{
+	width:200px;
+	height:90px;
+	float:left;
+	margin-top:15px;
+	margin-left:130px;
+	transform:scaleX(-1);
+	border-radius:10px;
+	}
+	
+.navbar{
+	border-radius:0px 0px 0px 0px;
+	border:0px;
+	
+	}
+
+.container-fluid{
+	padding-right:30px;
+	background:rgba(29,87,203,0.16);
+	height:60px;
+	}
+.nav-content{
+	font-size:20px;
+	font-weight:bold;
+	font-family:"Adobe Arabic";
+	}
+.dropdown-menu{
+	background-color:rgba(0,0,0,1.00);
+	}
+.dropdown-menu .dropdown-a{
+	color:rgba(169,169,169,1.00);
+	font-family:"Adobe Arabic";
+	font-size:16px;
+	}
+.dropdown-menu .dropdown-a:hover{
+	background-color:rgba(214,214,214,1.00);
+	}	
+	
+	/* search box*/
+
+#search-form_3 {
+background: #e1e1e1; /* Fallback color for non-css3 browsers */
+width: 365px;
+margin-top:8px;
+margin-bottom:8px;
+
+
+/* Gradients */
+background: -webkit-gradient( linear,left top, left bottom, color-stop(0, rgb(243,243,243)), color-stop(1, rgb(225,225,225)));
+background: -moz-linear-gradient( center top, rgb(243,243,243) 0%, rgb(225,225,225) 100%);
+
+/* Rounded Corners */
+border-radius: 17px;
+-webkit-border-radius: 17px;
+-moz-border-radius: 17px;
+
+/* Shadows */
+box-shadow: 1px 1px 2px rgba(0,0,0,.3), 0 0 2px rgba(0,0,0,.3);
+-webkit-box-shadow: 1px 1px 2px rgba(0,0,0,.3), 0 0 2px rgba(0,0,0,.3);
+-moz-box-shadow: 1px 1px 2px rgba(0,0,0,.3), 0 0 2px rgba(0,0,0,.3);
+}
+
+/*** TEXT BOX ***/
+.search_3{
+background: #fafafa; /* Fallback color for non-css3 browsers */
+
+/* Gradients */
+background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(250,250,250)), color-stop(1, rgb(230,230,230)));
+background: -moz-linear-gradient( center top, rgb(250,250,250) 0%, rgb(230,230,230) 100%);
+border: 0;
+border-bottom: 1px solid #fff;
+border-right: 1px solid rgba(255,255,255,.8);
+font-size: 16px;
+margin: 4px;
+padding: 5px;
+width: 250px;
+
+/* Rounded Corners */
+border-radius: 17px;
+-webkit-border-radius: 17px;
+-moz-border-radius: 17px;
+
+/* Shadows */
+box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+-webkit-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+-moz-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+}
+
+/*** USER IS FOCUSED ON TEXT BOX ***/
+.search_3:focus{
+outline: none;
+background: #fff; /* Fallback color for non-css3 browsers */
+
+/* Gradients */
+background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(255,255,255)), color-stop(1, rgb(235,235,235)));
+background: -moz-linear-gradient( center top, rgb(255,255,255) 0%, rgb(235,235,235) 100%);
+}
+
+/*** SEARCH BUTTON ***/
+.submit_3{
+background: #4A44D5;/* Fallback color for non-css3 browsers */
+/* Gradients */
+background: -webkit-gradient( linear, left top, left bottom, color-stop(0, rgb(55,100,100)), color-stop(0.15, rgb(55,100,100)), color-stop(0.88, rgb(55,100,100)), color-stop(1, rgb(55,100,100)));
+background: -moz-linear-gradient( center top, rgb(79,188,32) 0%, rgb(73,157,34) 15%, rgb(62,135,28) 88%, rgb(49,114,21) 100%);
+border: 0;
+color: #eee;
+cursor: pointer;
+float: right;
+font: 22px 'adobe arabic', sans-serif;
+color:rgba(220,220,220,1.00);
+font-weight: bold;
+height: 30px;
+margin: 4px 4px 0;
+text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+width: 84px;
+outline: none;
+
+/* Rounded Corners */
+border-radius: 30px;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+
+/* Shadows */
+box-shadow: -1px -1px 1px rgba(255,255,255,.5), 1px 1px 0 rgba(0,0,0,.4);
+-moz-box-shadow: -1px -1px 1px rgba(255,255,255,.5), 1px 1px 0 rgba(0,0,0,.2);
+-webkit-box-shadow: -1px -1px 1px rgba(255,255,255,.5), 1px 1px 0 rgba(0,0,0,.4);
+}
+/*** SEARCH BUTTON HOVER ***/
+.submit_3:hover {
+background: rgba(61,140,100,1.00); /* Fallback color for non-css3 browsers */
+
+/* Gradients */
+background: -webkit-gradient( linear, left top, left bottom, color-stop(0, rgb(60,150,100)), color-stop(0.15, rgb(60,150,100)), color-stop(0.8, rgb(66,143,27)), color-stop(1, rgb(54,120,60)));
+background: -moz-linear-gradient( center top, rgb(89,222,27) 0%, rgb(83,179,38) 15%, rgb(66,143,27) 80%, rgb(54,120,22) 100%);
+}
+.submit_3:active {
+background: rgba(61,140,100,1.00); /* Fallback color for non-css3 browsers */
+
+/* Gradients */
+background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(60,140,100)), color-stop(0.15, rgb(60,140,100)), color-stop(0.8, rgb(60,140,100)), color-stop(1, rgb(60,140,100)));
+background: -moz-linear-gradient( center bottom, rgb(60,140,100) 0%, rgb(60,140,100) 15%, rgb(60,140,100) 80%, rgb(60,140,100) 100%);
+}
+	
+	
+/* Carousel base class */
+.carousel {
+  max-width:60%;
+  max-height: 100%;
+  margin:auto;
+  
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+    background: rgba(0, 0, 0, 0.35);
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  max-height: 100%;
+  background-color: #777;
+  }
+  
+.carousel-inner > .item > img {
+ /*  position: absolute;*/
+  top: 0;
+  width: 100%;
+  max-height: 380px;
+  margin:auto;
+  height:auto;
+  }
+ .carousel-control{
+    right: initial;
+}
+
+.header{
+	font-size:30px;
+	font-family:"Adobe Arabic";
+	font-weight:bold;
+	color:rgba(90,5,6,1.00);
+	 
+	}
+	
+.header:hover{
+	text-decoration:none;
+	color:rgba(154,20,23,1.00);
+	}
+	
+.text{
+	font-size:18px;
+	font-family:"Adobe Arabic";
+	color:rgba(90,5,6,1.00);
+	}
+.text:hover{
+	color:rgba(154,20,23,1.00);
+	}
+.section1{
+	font-weight:bold;
+	font-size:22px;
+	font-family:"Adobe Arabic";
+	color:rgba(90,11,12,1.00);
+	padding:45px;
+	border:0px;
+	border-radius:10px;
+	direction:rtl;
+	margin:auto;
+	width:80%;
+	height:300px;
+	background-color:rgba(0,0,0,0.09);
+	}
+
+
+	
+.footer{
+	text-align:center;
+	background-color:rgba(0,0,0,0.74);
+	width:100%;
+	height:80px;
+	margin-top:120px;
+	padding-top:20px;
+	}
+.designed{
+	color:rgba(227,227,227,1.00);
+	font-family:"adobe arabic";
+	font-size:23px;
+	
+	}
+
+#contain{
+	margin-top:70px;
+	
+	}
+	
+	
+#div1{
+	border:0px;
+	height:330px;
+	direction:rtl;
+	}	
+
+#div2{
+	border:0px;
+	height:400px;
+	direction:rtl;
+
+
+	}
+	
+#div3{
+	border:0px;
+	height:330px;
+	direction:rtl;
+
+
+
+	}	
+	
+.span1{
+	color:rgba(135,18,20,1.00);
+	font-family:"adobe arabic";
+	font-size:30px;
+	font-weight:bold;
+	margin-right:100px;
+		
+	}
+	
+.inner{
+	font-family:"adobe arabic";
+	font-size:18px;
+	margin-right:44px;
+	color:rgba(136,27,29,1.00);
+
+	}	
+	
+.gym{
+	margin-right:50px;
+	font-family:"adobe arabic";
+	font-size:22px;
+	color:rgba(192,177,34,1.00);
+	}	
+.gym1{
+	direction:rtl;
+	font-family:"adobe arabic";
+	font-size:22px;
+	color:rgba(192,177,34,1.00);
+	}		
+
+.scroll-top {
+    z-index: 1049;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    width: 50px;
+    height: 50px;
+    display: none;
+}
+
+.scroll-top .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.scroll-top .btn:focus {
+    outline: 0;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color:rgba(10,67,168,1.00);
+  color:white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius:50px;
+}
+	
+#span{
+	font-size:23px;
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
